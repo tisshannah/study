@@ -77,10 +77,13 @@
 * ip
 * ![alt text](image-46.png)
 * ![alt text](image-47.png)
+* resolv.conf
+* ![alt text](image-67.png)
 * вкл пересылку пакетов и установить шлюз
 * ![alt text](image-48.png)
 * ![alt text](image-49.png)
 * ![alt text](image-50.png)
+* ![alt text](image-68.png)
 * пишу это в файл options.conf
 * ![alt text](image-51.png)
 * в файле rfc1912.conf
@@ -94,5 +97,8 @@
 
 * генерация ключа управления rndc
 * ![alt text](image-61.png)
-* ![alt text](image-62.png) *забыла добавить -R
-* вкл службы BIND
+* ![alt text](image-64.png)
+* ![alt text](image-65.png)
+* запускается так
+* ![alt text](image-66.png)
+* ![alt text](image-69.png)
